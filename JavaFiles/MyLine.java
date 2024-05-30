@@ -94,6 +94,6 @@ public class MyLine {
     }
 
     public String toString() {
-        return "MyLine[begin=" + begin + ",end=" + end + "]";
+        return "MyLine[begin = " + begin + ",end = " + end + "]";
     }
 }
