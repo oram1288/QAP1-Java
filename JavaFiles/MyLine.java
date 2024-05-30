@@ -93,7 +93,6 @@ public class MyLine {
         return Math.atan2(yDiff, xDiff);
     }
 
-    // @Override
     public String toString() {
         return "MyLine[begin=" + begin + ",end=" + end + "]";
     }
