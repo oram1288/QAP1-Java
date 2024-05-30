@@ -30,7 +30,7 @@ public class TestMyRectangle {
         System.out.println("rect2 perimeter: " + rect2.getPerimeter());  // 14
 
         // Test toString
-        System.out.println("rect1: " + rect1);  // MyRectangle[topLeft=(0, 3),bottomRight=(4, 0)]
-        System.out.println("rect2: " + rect2);  // MyRectangle[topLeft=(2, 5),bottomRight=(6, 2)]
+        System.out.println("rect1: " + rect1);  // MyRectangle [topLeft = (0, 3), bottomRight = (4, 0)]
+        System.out.println("rect2: " + rect2);  // MyRectangle [topLeft = (2, 5), bottomRight = (6, 2)]
     }
 }
