@@ -2,7 +2,8 @@
 try to keep track of how many hours you have spent working on each individual 
 part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
 
--
+- Where i was late starting it and pressed for time a bit i worked on this one for 
+3-4 days straight and roughly 4 hours each day, doing a problem every day.
 
 2. What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
 
@@ -22,4 +23,5 @@ questions did you ask (or how many help sessions did you require)?
 and whether you feel confident that you can solve a similar but different problem 
 requiring some of the same techniques in the future now that you’ve completed this one.
 
--
+- Didn't find the QAP too bad, just took a bit of time to figure things out. Problem 3
+was probably the trickiest.
